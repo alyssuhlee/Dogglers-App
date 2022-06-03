@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog6.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_vertical_horizontal_list_item.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_horizontal_list.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog5.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog3.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog4.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_grid_list_item.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog1.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_grid_list.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\activity_grid_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog2.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog8.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_dog7.jpg.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\drawable\\dog7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vertical_list.xml.flat",
+        "source": "C:\\Users\\Alyssa\\Downloads\\android-basics-kotlin-dogglers-app-main\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+    }
+]
